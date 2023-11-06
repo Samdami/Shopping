@@ -1,0 +1,9 @@
+WTForms
+Flask-WTF
+Flask-Login
+pdfkit
+Flask-SQLAlchemy
+Flask-Bcrypt
+Flask-Uploads
+flask-msearch
+Flask-Migrate
